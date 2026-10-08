@@ -1,0 +1,4 @@
+# One correction per line: wrong -> right
+# Lines starting with # are comments
+cubernetis -> Kubernetes
+terra form -> Terraform
